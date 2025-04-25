@@ -1,3 +1,5 @@
+// I created a  console controller logic using Logical Operatos and If Else Condition.
+
 #include <iostream>
 using namespace std;
 
